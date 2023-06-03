@@ -1,3 +1,7 @@
+## Fork reason
+
+The original crate will be deprecated soon due to an issue (see https://github.com/DDOtten/partitions/issues/2). This dependency is used in my software, and I'm not sure if the crate owner is active, so will be forking and using this dependency instead. 
+
 # Partitions
 
 A [disjoint-sets/union-find] implementation that
